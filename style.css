@@ -1,0 +1,26 @@
+
+h1{
+
+    color:red;
+}
+/**{
+    border:solid;
+}*/
+.heading{
+    background-color: blueviolet;
+    display: flex;
+    justify-content:space-evenly;
+}
+.content{
+    background-color: coral;
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+h2,p{
+    text-align: center;
+}
